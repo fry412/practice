@@ -1,0 +1,534 @@
+Note
+Total Number: #unanswerable questions (ignoring case difference, which is used in paper) / #unanswerable questions considering case difference)
+
+
+6b1 
+Total Number: 7/12
+1.
+id: 5a43a139966455904c000008
+Reason: case difference
+2.
+id: 58eb99f3eda5a57672000009
+Reason: case difference
+3.
+id: 590af75d70f9fc6f0f00001c
+【Strongly Unanswerable】(*)Reason: Requirement of external biomedical info/knowledge
+4.
+id: 5a3e8683966455904c000007
+Reason: case difference
+5.
+Id: 5a7d5ce0faa1ab7d2e00001b
+Reason: case difference
+6.
+id: 593fe5c270f9fc6f0f000021
+【Weakly Unanswerable】(*)Reason: Numeric Question 
+7.
+id: 593fe7f970f9fc6f0f000022
+【Strongly Unanswerable】(*)Reason: Numeric Question, Inference and Calculation
+8.
+id: 5a7d4721faa1ab7d2e000012
+【Weakly Unanswerable】(*)Reason: Need Part-of-speech Transformation
+9.
+id: 5a7610af83b0d9ea6600001a
+【Weakly Unanswerable】(*)Reason: Abbreviation, Alternative, Case Difference
+10.
+id: 5a88370c61bb38fb24000014
+【Strongly Unanswerable】(*)Reason: Sentence Reorganization, Requirement of external biomedical info/knowledge
+11.
+id: 58ee2515eda5a57672000016
+【Strongly Unanswerable】(*)Reason: Requirement of external info/knowledge
+12.
+id: 5a6e472ab750ff4455000048
+Reason: case difference 
+------------------------------------------------------------------------------------------------------------
+6b2
+Total Number: 3/4
+1.
+Id: 5a6a02a3b750ff4455000021
+【Strongly Unanswerable】(*)Reason: Sentence Reorganization, Requirement of external biomedical info/knowledge
+2.
+Id: 5a70ce82b750ff4455000065
+【Strongly Unanswerable】(*)Reason: Sentence Reorganization, Requirement of external biomedical info/knowledge
+3.
+id: 5a74a8a70384be9551000005
+【Weakly Unanswerable】(*)Reason: Specific Symbol
+4.
+Id: 5a551a8fb750ff4455000002
+Reason: case difference
+------------------------------------------------------------------------------------------------------------
+6b3
+Total Number: 7/12
+1.
+id: 5a70e4b399e2c3af26000008
+Reason: case difference
+2.
+id: 5a777ab9faa1ab7d2e00000a
+【Weakly Unanswerable】(*)Reason: Singular and plural problems
+【There is probably a problem with the golden answer】
+3.
+id: 5a8715a961bb38fb24000006
+【Weakly Unanswerable】(*)Reason: Abbreviation, Detail Problem
+4.
+id: 5a8718c861bb38fb24000008
+【Strongly Unanswerable】(*)Reason: Sentence Generation, Requirement of external biomedical info/knowledge
+5.
+Id: 5a735cdc3b9d13c708000004
+Reason: case difference
+【There is probably a problem with the golden answer】
+6.
+id: 5a74e9ad0384be955100000a
+Reason: case difference
+7.
+id: 5a6e1280b750ff4455000037
+Reason: case difference
+8.
+id: 5a87145861bb38fb24000004
+【Strongly Unanswerable】(*)Reason: Requirement of Answer Extraction and Regroup (Summarization)
+9.
+id: 5a6e2578b750ff445500003d
+Reason: case difference
+10.
+id: 5a871b8d61bb38fb2400000a
+【Strongly Unanswerable】(*)Reason: Requirement of Common Sense Knowledge
+11
+id: 5a897a06fcd1d6a10c00000b
+【Strongly Unanswerable】(*)Reason: Answer can not be extracted
+12.
+id: 5a8712af61bb38fb24000002
+【Weakly Unanswerable】(*)Reason: Singular and plural problems 
+------------------------------------------------------------------------------------------------------------
+6b4
+Total Number: 9/11
+1.
+id: 5a9d29571d1251d03b000018
+【Weakly Unanswerable】(*)Reason: Need Part-of-speech Transformation (Inhibitory - inhibitor)
+2.
+id: 5a9e2386de7cb99d40000004
+Reason: case difference
+3.
+id: 5aa55b45d6d6b54f7900000d
+【Weakly Unanswerable】(*)Reason: Alternative
+4.
+id: 5a9ac4e81d1251d03b000011
+【Weakly Unanswerable】(*)Reason: Singular and plural problems
+5.
+Id: 5a8056a2faa1ab7d2e00001f
+Reason: case difference
+6.
+id: 5aad4b37fcf456587200000a
+【Strongly Unanswerable】(*)Reason: Sentence Generation
+7.
+id: 5a9ac6821d1251d03b000012
+【Weakly Unanswerable】(*)Reason: Sentence Generation
+8.
+id: 5a9d8d691d1251d03b000020
+【Strongly Unanswerable】(*)Reason: Sentence Generation
+9.
+id: 5a7373f63b9d13c708000008
+【Weakly Unanswerable】(!!!!*)Reason: golden answer problem, case difference
+10.
+id: 5a95765bfcd1d6a10c000028
+【Strongly Unanswerable】(*)Reason: Sentence Generation and Summarizarion
+11.
+id: 5aa3fb7ad6d6b54f79000009
+【Weakly Unanswerable】(*)Reason: Specific Symbol (Sofosbuvir based therapy - Sofosbuvir-based therapy)
+------------------------------------------------------------------------------------------------------------
+6b5
+Total Number: 15/16
+1.
+id: 5ac24c9495d0062724000002
+【Strongly Unanswerable】(*)Reason: Sentence Generation
+2.
+id: 5abc9ecffcf4565872000021
+【Strongly Unanswerable】(*)Reason: Sentence Regroup and Generation
+3.
+id: 5a9d99ac4e03427e73000002
+【Strongly Unanswerable】(*)Reason: Sentence Regroup and Generation
+4.
+id: 5ac37afc0340b9f058000002
+【Weakly Unanswerable】(*)Reason: Phrase-orders Regroup (exaptation of ancestral DNA - ancestral DNA exaptation)
+5.
+Id: 5ad243e30340b9f058000016
+【Weakly Unanswerable】(*)Reason: Specific Symbol
+6.
+id: 5abd5a62fcf4565872000031
+【Weakly Unanswerable】(*)Reason: Abbreviation
+7.
+id: 5aafc37afcf4565872000010
+【Strongly Unanswerable】(*)Reason: Sentence Regroup
+8.
+id: 5a885add61bb38fb24000017
+【Weakly Unanswerable】(*)Reason: Similar Content 
+9.
+id: 5ac08fe7d0c506ce46000003
+【Strongly Unanswerable】(*)Reason: Sentence Generation
+10.
+id: 5ac09a7b19833b0d7b000001
+【Strongly Unanswerable】(*)Reason: Requirement of Biomedical Knowledge and Sentence Generation
+11.
+id: 5abbfd97fcf456587200001d
+【Weakly Unanswerable】(*)Reason: Similar Content
+12.
+id: 5a86e6fafaa1ab7d2e000036
+【Weakly Unanswerable】(*)Reason: Specific Symbol (A/T rich sequences - A/T-rich sequence)
+13.
+id: 5ad4dd93133db5eb78000008
+【Weakly Unanswerable】(*)Reason: Specific Symbol and case difference
+14.
+id: 5aac543bfcf4565872000004
+【Weakly Unanswerable】(*)Reason: Need Part-of-speech Transformation (allergy - an allergic reaction)
+15.
+id: 5abcf0b0fcf4565872000024
+Reason: case difference
+16.
+id: 5a74eaa50384be955100000b
+【Strongly Unanswerable】(*)Reason: Sentence Generation and External Knowledge
+------------------------------------------------------------------------------------------------------------
+7b1
+Total Number: 12/17
+1.
+id: 5c5f56501a4c55d80b00002a
+Reason: case difference
+2.
+id: 5c2f669e133db5eb78000031
+【Strongly Unanswerable】(*)Reason: Numeric Question and Requirement of Calculation
+3.
+id: 5c5f2c0c1a4c55d80b000021
+【Weakly Unanswerable】(*)Reason: Punctuation and case difference 
+4.
+id: 5c5f3a1f1a4c55d80b000028
+【Weakly Unanswerable】(*)Reason: Need Part-of-speech Transformation
+5.
+Id: 5c0112dd133db5eb78000026
+【Strongly Unanswerable】(*)Reason: Sentence Generation (In Snippet Version)
+6.
+id: 5be494a0133db5eb7800001f
+Reason: case difference 
+7.
+id: 5c5f0d071a4c55d80b000010
+【Strongly Unanswerable】(*)Reason: Sentence Regroup and Generation
+8.
+id: 5c632542e842deac6700000d
+Reason: case difference
+9.
+id: 5c5f094c1a4c55d80b00000c
+【Weakly Unanswerable】(*)Reason: Similar Content
+10.
+id: 5c5f30c91a4c55d80b000025
+【Weakly Unanswerable】(*)Reason: Punctuation
+11.
+id: 5ad83cd6133db5eb78000010
+【Weakly Unanswerable】(！！！*)Reason: Spelling Problems
+12.
+id: 5c34ac49da8336e21a000006
+【Strongly Unanswerable】(*)Reason: Sentence Generation and Requirement of external knowledge
+13.
+id: 5c2cf051133db5eb78000030
+【Strongly Unanswerable】(*)Reason: Requirement of calculation
+14.
+id: 5c307474133db5eb78000033
+Reason:case difference
+15.
+id: 5be44ed3133db5eb78000016
+【Weakly Unanswerable】(*)Reason: Spelling Problems
+16.
+id: 5be48987133db5eb7800001c
+【Weakly Unanswerable】(*)Reason: Spelling Problems
+17.
+id: 5c011448133db5eb78000027
+Reason: case difference
+------------------------------------------------------------------------------------------------------------
+7b2
+Total Number: 5/9
+1.
+id: 5c5249077e3cb0e23100000b
+Reason: Punctuation
+2.
+id: 5c76d0417c78d694710000a8
+Reason: case difference
+3.
+id: 5c7b1a5fd774d0424000000c
+【Weakly Unanswerable】(*)Reason: Specific Symbol (95 % - 95%)
+4.
+id: 5c5219f67e3cb0e231000006
+【Weakly Unanswerable】(*)Reason: Abbreviation, Alternative (SVM OR Support Vector Machine - SVM)
+5.
+Id: 5c65abd17c78d69471000009
+Reason: case difference
+6.
+id: 5c74111f7c78d694710000a1
+【Weakly Unanswerable】(*)Reason: Similar Content
+7.
+id: 5c783d32d774d04240000004
+【Weakly Unanswerable】(*)Reason: Similar Content (Model of MS (Multiple Sclerosis) - model of MS)
+8.
+id: 5c646fd3e842deac6700001a
+Reason: case difference
+9.
+id: 5c5f264b1a4c55d80b00001e
+【Strongly Unanswerable】(*)Reason: Sentence Regroup and Generation
+------------------------------------------------------------------------------------------------------------
+7b3
+Total Number: 7/8
+1.
+id: 5c5f29a81a4c55d80b00001f
+【Weakly Unanswerable】(*)Reason: Need Part-of-speech Transformation
+2.
+id: 5c531d8f7e3cb0e231000017
+【Weakly Unanswerable】(*)Reason: Similar Content
+3.
+id: 5c78080e7c78d694710000ae
+【Strongly Unanswerable】(*)Reason: Sentence Regroup
+4.
+id: 5c7813f57c78d694710000b0
+【Strongly Unanswerable】(*)Reason: Sentence Regroup
+5.
+Id: 5c629937e842deac67000008
+Reason: case difference
+6.
+id: 5c6bec987c78d69471000033
+【Weakly Unanswerable】(*)Reason: Abbreviation
+7.
+id: 5c674c287c78d6947100001a
+【Strongly Unanswerable】(*)Reason: Sentence Generation and Requirement of Common Sense Knowledge
+8.
+id: 5c54d1a207647bbc4b000007
+【Strongly Unanswerable】(*)Reason: Sentence Regroup, Generation and Requirement of Common Sense Knowledge
+------------------------------------------------------------------------------------------------------------
+7b4
+Total Number: 4/10
+1.
+id: 5c929094ecadf2e73f000019
+Reason: case difference
+2.
+id: 5c920df7ecadf2e73f00000f
+Reason: case difference
+3.
+id: 5c83fd8e617e120c34000004
+【Weakly Unanswerable】(*)Reason: Alternative
+4.
+id: 5c7d5ae9d774d04240000010
+Reason: case difference
+5.
+Id: 5c915a8becadf2e73f000009
+【Strongly Unanswerable】(*)Reason: Requirement of External Biomedical Knowledge 
+6.
+id: 5c909b6cecadf2e73f000005
+Reason: case difference
+7.
+id: 5c7d5fcfd774d04240000011
+【Weakly Unanswerable】(*)Reason: Similar Content
+8.
+id: 5c8fef490101eac870000010
+Reason: case difference
+9.
+id: 5c8fee200101eac87000000f
+【Strongly Unanswerable】(*)Reason: Requirement of NLU and Common Sense Knowledge
+10.
+id: 5c6ad2997c78d69471000020
+Reason: case difference
+------------------------------------------------------------------------------------------------------------
+7b5
+Total Number: 8/13
+1.
+id: 5c9e6407ecadf2e73f000034
+【Weakly Unanswerable】(*)Reason: Similar Content
+2.
+id: 5c960f21ecadf2e73f000020
+Reason: case difference
+3.
+id: 5c890ad575a4a5d21900000d
+【Weakly Unanswerable】(*)Reason: Similar Content
+4.
+id: 5c9e6e99ecadf2e73f000036
+【Weakly Unanswerable】(*)Reason: Similar Content
+5.
+Id: 5c897082d558e5f232000004
+【Weakly Unanswerable】(*)Reason: Similar Content 
+6.
+id: 5c9a6693ecadf2e73f000031
+【Weakly Unanswerable】(*)Reason: Similar Content
+7.
+id:  5c8aa082d558e5f23200000c
+Reason: case difference
+8.
+id: 5ca9f846ecadf2e73f000053
+【Strongly Unanswerable】(*)Reason: Requirement of NLU and Sentence Regroup
+9.
+id: 5c890e6d75a4a5d21900000f
+Reason: case difference
+10.
+id: 5c8fe1f10101eac87000000a
+Reason: case difference
+11.
+id: 5c92869aecadf2e73f000015
+Reason: case difference
+12.
+id: 5c896f60d558e5f232000003
+【Weakly Unanswerable】(*)Reason: Similar Content
+13.
+id: 5c9789a9ecadf2e73f000024
+【Strongly Unanswerable】(*)Reason: Requirement of NLU
+------------------------------------------------------------------------------------------------------------
+8b1
+Total Number: 7/12
+1.
+id:  5e29fb27aa19d74431000005
+Reason: case difference 
+2.
+id: 5e48edb1f8b2df0d49000002
+Reason: case difference
+3.
+id:  5e29f666aa19d74431000001
+Reason: case difference
+4.
+id:  5c7a4fddd774d04240000009
+【Weakly Unanswerable】(*)Reason: Numeric Problem
+5.
+Id: 5e46da9c3f5415952900000a
+【Strongly Unanswerable】(*)Reason: Sentence Regroup 
+6.
+id: 5e46e74e3f5415952900000b
+【Strongly Unanswerable】(*)Reason: Requirement of external knowledge
+7.
+id: 5e2a046caa19d74431000008
+【Strongly Unanswerable】(*)Reason: Requirement of external biomedical knowledge
+8.
+id: 5e2daaa2fbd6abf43b00000e
+Reason: case difference
+9.
+id: 5e48efd9f8b2df0d49000004
+【Strongly Unanswerable】(*)Reason: Sentence Regroup and Generation
+10.
+id: 5e29f6e0aa19d74431000002
+Reason: case difference
+11.
+id: 5e499c636d0a27794100000a
+【Strongly Unanswerable】(*)Reason: Requirement of NLU
+12.
+id: 5c74305d7c78d694710000a4
+【Strongly Unanswerable】(*)Reason: Requirement of NLU, Sentence Regroup and Generation
+------------------------------------------------------------------------------------------------------------
+8b2
+Total Number: 6/9
+1.
+id: 5e36dc8cb5b409ea5300000d
+【Weakly Unanswerable】(*)Reason: Similar Content
+2.
+id: 5e31cb85fbd6abf43b00004e
+【Strongly Unanswerable】(*)Reason: Requirement of External Knowledge
+3.
+id: 5cebf83ea49efeb44c00000a
+Reason: case difference
+4.
+id: 5e5b8b4e752ebcdc7a000001
+【Weakly Unanswerable】(*)Reason: Similar Content
+5.
+Id: 5e2dbd72fbd6abf43b000018
+Reason: case difference
+6.
+id: 5e361c8792b3349b55000001
+【Strongly Unanswerable】(*)Reason: Requirement of Sentence Regroup
+7.
+id: 5cea52c7a49efeb44c000005
+【Strongly Unanswerable】(*)Reason: Requirement of MRC and Sentence Regroup
+8.
+id: 5e3c6c9eb5b409ea53000022
+Reason: case difference 
+9.
+id: 5cebeb82a49efeb44c000009
+【Strongly Unanswerable】(*)Reason: Sentence Regroup
+------------------------------------------------------------------------------------------------------------
+8b3
+Total Number: 9/10
+1.
+id: 5e540c866d0a277941000052
+Reason: case difference
+2.
+id: 5d35e7ddb3a638076300000e
+【Weakly Unanswerable】(*)Reason: Need Part-of-speech Transformation (the nucleus - nuclear)
+3.
+id: 5e4bed1c6d0a27794100002b
+【Strongly Unanswerable】(*)Reason: Sentence Regroup and Requirement of External Knowledge
+4.
+id: 5d35d901b3a638076300000a
+【Weakly Unanswerable】(*)Reason: Similar Content
+5.
+Id: 5e4fd44a6d0a277941000033
+【Weakly Unanswerable】(*)Reason: Punctuation (receptor mediated endocytosis - Receptor-mediated endocytosis)
+6.
+id: 5d35e421b3a638076300000d
+【Strongly Unanswerable】(*)Reason: Sentence Generation and Requirement of External Biomedical Knowledge
+7.
+id: 5d35be1cb3a6380763000005
+【Strongly Unanswerable】(*)Reason: Sentence Regroup and Generation
+8.
+id: 5d35dfbdb3a638076300000b
+【Strongly Unanswerable】(*)Reason: Sentence Regroup
+9.
+id: 5e42d1a748dab47f26000010
+【Weakly Unanswerable】(*)Reason: Abbreviation
+10.
+id: 5e51dc516d0a27794100003e
+【Weakly Unanswerable】(*)Reason: Sentence Regroup
+------------------------------------------------------------------------------------------------------------
+8b4
+Total Number: 6/7
+1.
+id: 5d3852d07bc3fee31f000014
+【Strongly Unanswerable】(*)Reason: Requirement of External Biomedical Knowledge
+2.
+id: 5e6e487151b80c9423000001
+【Strongly Unanswerable】(*)Reason: Requirement of External Biomedical Knowledge (lysine methyltransferase activity - The lysine methyltransferase KMT2C)
+3.
+id: 5e764440c6a8763d23000013
+【Strongly Unanswerable】(*)Reason: Requirement of External Common Sense Knowledge
+4.
+id: 5d3826427bc3fee31f00000f
+【Strongly Unanswerable】(*)Reason: Numeric Problem and Sentence Regroup
+5.
+Id: 5e6399dd1af46fc13000000f
+【Weakly Unanswerable】(*)Reason: Need Part-of-speech Transformation
+6.
+id: 5d38663da1e1595105000001
+Reason: case difference
+7.
+id: 5e3ab4f8b5b409ea5300001b
+【Strongly Unanswerable】(*)Reason: Requirement of External Knowledge
+------------------------------------------------------------------------------------------------------------
+8b5
+Total Number: 5/11
+1.
+id:  5e3eba5548dab47f26000009
+Reason: case difference
+2.
+id: 5d38577b7bc3fee31f000017
+【Strongly Unanswerable】(*)Reason: Requirement of External Knowledge 
+3.
+id: 5e5286036d0a277941000040
+Reason: case difference
+4.
+id: 5e80489b835f4e4777000022
+【Strongly Unanswerable】(*)Reason: Sentence Regroup
+5.
+Id: 5e7f6971835f4e4777000020
+Reason: case difference
+6.
+id: 5e52a3416d0a277941000043
+Reason: case difference
+7.
+id: 5e7644a2c6a8763d23000014
+【Weakly Unanswerable】(*)Reason: Similar content and data format
+8.
+id: 5e7745ea835f4e4777000006
+Reason: case difference 
+9.
+id: 5e52be146d0a27794100004a
+Reason: case difference
+10.
+id: 5e7f5d83835f4e4777000017
+【Weakly Unanswerable】(*)Reason: Similar Content 
+11.
+id: 5d387f24a1e1595105000013
+【Weakly Unanswerable】(*)Reason: Similar Content
+------------------------------------------------------------------------------------------------------------
